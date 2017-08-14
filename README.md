@@ -1,2 +1,4 @@
 # hello-world
-hello world repository guid from github
+hello world repository guide from github
+
+I like coffee and science.
